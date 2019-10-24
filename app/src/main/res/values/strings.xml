@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ANDROID VERSIONS</string>
+
+    <string-array name="androidName">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+    </string-array>
+
+    <string-array name="androidVersion">
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>2.0 – 2.1</item>
+        <item>2.2 – 2.2.3</item>
+        <item>2.3 – 2.3.7</item>
+    </string-array>
+
+    <string-array name="apiLevel">
+        <item>3</item>
+        <item>4</item>
+        <item>5-7</item>
+        <item>8</item>
+        <item>9-10</item>
+    </string-array>
+
+    <string-array name="releaseDate">
+        <item>April 27, 2009</item>
+        <item>September 15, 2009</item>
+        <item>October 26, 2009</item>
+        <item>May 20, 2010</item>
+        <item>December 6, 2010</item>
+    </string-array>
+
+    <string-array name="androidInformation">
+        <item>Android "Cupcake" is the third version of Android developed by Google, a major platform release deployable to Android-powered handsets starting in April 2009, that is no longer supported.</item>
+        <item>Android "Donut" is the fourth version of the open source Android mobile operating system developed by Google that is no longer supported.</item>
+        <item>Android "Eclair" is a codename of the Android mobile operating system developed by Google and the fifth operating system for Android, and for the no-longer supported versions 2.0 to 2.1.</item>
+        <item>Android "Froyo" is the sixth version of Android and is a codename of the Android mobile operating system developed by Google, spanning versions between 2.2 and 2.2.3.</item>
+        <item>Android "Gingerbread" is the seventh version of Android, a codename of the Android mobile operating system developed by Google and released in December 2010, for versions that are no longer supported.</item>
+    </string-array>
+</resources>
